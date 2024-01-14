@@ -1,4 +1,4 @@
-package project
+package project0D
 
 import zd "0d/odin/0d"
 import "0d/odin/std"

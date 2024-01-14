@@ -1,4 +1,4 @@
-# 0Dstarter
+# project0D
 
 Fork this to begin a new 0D project.
 
